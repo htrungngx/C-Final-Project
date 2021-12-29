@@ -1,4 +1,4 @@
-# C-Final-Project
+# C++-Final-Project
 
 This is Final Project of Object-Oriented Programming in IoT Devices TX00DR65-3004
 
